@@ -28,7 +28,7 @@ For assistance, please contact me via email.
 
 ## Live Preview
 
-* [Live Site](https://myx-portfolio.netlify.app)
+* [Live Site](https://adarsh-portfoliox.netlify.app/)
 
 ## Acknowledgments
 
